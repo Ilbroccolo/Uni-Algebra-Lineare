@@ -1,0 +1,43 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Matrici}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Definizioni Fondamentali}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Tipologie Speciali di Matrici}{2}{}%
+\contentsline {section}{\numberline {2}Algebra delle Matrici}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Operazioni con Matrici}{3}{}%
+\contentsline {section}{\numberline {3}Algoritmo di Gauss}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Matrice a scalini}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Algoritmo in un sistema omogeneo}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Algoritmo in un sistema non omogeneo}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Algoritmo di Gauss-Jordan}{8}{}%
+\contentsline {section}{\numberline {4}Sistemi Lineari e Matrici}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Sistemi Lineari}{8}{}%
+\contentsline {section}{\numberline {5}Spazi Vettoriali}{11}{}%
+\contentsline {subsection}{\numberline {5.1}Spazio n-dimensionale}{11}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Operazioni su $\mathbb {R}^n$}{11}{}%
+\contentsline {subsection}{\numberline {5.2}Spazio Vettoriale}{11}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Esempi Fondamentali}{12}{}%
+\contentsline {subsection}{\numberline {5.3}Sottospazi Vettoriali}{12}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Interpretazione Geometrica ed Esempi}{12}{}%
+\contentsline {subsection}{\numberline {5.4}Combinazioni Lineari e Span}{13}{}%
+\contentsline {subsection}{\numberline {5.5}Indipendenza Lineare}{13}{}%
+\contentsline {subsection}{\numberline {5.6}Basi e Dimensione}{13}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}Esempi di Basi}{14}{}%
+\contentsline {subsection}{\numberline {5.7}Formula di Grassmann}{14}{}%
+\contentsline {section}{\numberline {6}Applicazioni Lineari}{15}{}%
+\contentsline {subsection}{\numberline {6.1}Definizione e Primi Esempi}{15}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Esempi}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Nucleo e Immagine}{15}{}%
+\contentsline {subsection}{\numberline {6.3}Matrici Associate}{16}{}%
+\contentsline {section}{\numberline {7}Determinante e Diagonalizzazione}{17}{}%
+\contentsline {subsection}{\numberline {7.1}Determinante}{17}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Calcolo del Determinante (Sviluppo di Laplace)}{17}{}%
+\contentsline {subsection}{\numberline {7.2}Teoremi sul Determinante}{18}{}%
+\contentsline {subsection}{\numberline {7.3}Autovalori e Autovettori}{18}{}%
+\contentsline {subsection}{\numberline {7.4}Diagonalizzazione}{19}{}%
+\contentsline {section}{\numberline {8}Prodotti Scalari e Ortogonalità}{20}{}%
+\contentsline {subsection}{\numberline {8.1}Prodotto Scalare}{20}{}%
+\contentsline {subsection}{\numberline {8.2}Norma e Distanza}{20}{}%
+\contentsline {subsection}{\numberline {8.3}Ortogonalità}{20}{}%
+\contentsline {subsection}{\numberline {8.4}Basi Ortonormali e Gram-Schmidt}{20}{}%
+\contentsline {subsection}{\numberline {8.5}Teorema Spettrale}{21}{}%
