@@ -1,5 +1,24 @@
 \section{Algebra delle Matrici}
 
+\begin{concept}{Richiami di Teoria: Operazioni su Matrici}
+Le operazioni fondamentali che puoi eseguire sulle matrici (purché compatibili in dimensione) sono:
+\begin{itemize}
+    \item \textbf{Somma e Sottrazione:} Elemento per elemento (le matrici devono avere le stesse dimensioni $m \times n$).
+    \item \textbf{Moltiplicazione per Scalare:} Si moltiplica ogni elemento per il numero reale dato.
+    \item \textbf{Prodotto Righe per Colonne:} $A_{m \times n} \times B_{n \times k} \implies C_{m \times k}$. Il prodotto scalare dell'$i$-esima riga di $A$ con la $j$-esima colonna di $B$. \textbf{Non è commutativo} ($AB \neq BA$).
+    \item \textbf{Matrice Inversa:} $A^{-1}$ tale che $AA^{-1} = I$. Esiste se e solo se $\det(A) \neq 0$ (o se la matrice è non singolare di rango massimo).
+\end{itemize}
+\end{concept}
+
+\begin{logicbox}
+\textbf{Pattern 1: Inversa con algoritmo di Gauss-Jordan}\\
+Quando l'esercizio chiede l'inversa di una matrice di grandi dimensioni ($>2x2$):
+1. Costruisci la super-matrice $(A|I)$, affiancando la matrice identità della stessa dimensione.
+2. Usa le mosse elementari (Eliminazione di Gauss) per ridurre $A$ alla matrice Identità $I$.
+3. Fai grandissima attenzione ad eseguire esattamente LE STESSE mosse elementari anche sulla matrice identità $I$ a destra.
+4. La porzione destra finale, una volta che a sinistra appare l'identità, è esattamente $A^{-1}$.
+\end{logicbox}
+
 \begin{exercisebox}[title={Esercizio 1: Prodotto Righe per Colonne}]
 Date le matrici:
 $$ A = \begin{pmatrix} 1 & 2 & 0 \\ -1 & 3 & 1 \end{pmatrix}, \quad B = \begin{pmatrix} 2 & -1 \\ 0 & 1 \\ 3 & 4 \end{pmatrix} $$
